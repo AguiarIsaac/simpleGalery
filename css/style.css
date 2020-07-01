@@ -1,0 +1,22 @@
+body {
+	background-color: #2C3539;
+}
+.intro {
+	text-align: center;
+	font-family: sans-serif;
+	color: #FFFFFF;
+}
+.pictures {
+	align-items: center;
+	max-width: 350px;
+	max-height: 350px;
+	/*Reduz proporcionalmente a imagem de acordo com os parametros de limite maximo*/
+	width: auto; 
+	height: auto;
+}
+
+p {
+	color: #FFFFFF;
+	text-align: center;
+	font-family: sans-serif;
+}
